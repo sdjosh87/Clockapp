@@ -1,0 +1,17 @@
+h1 {
+    font-size: 55px;
+    color: rgb(236, 56, 56);
+    font-style: italic;
+    text-align: center;
+    }
+
+body {
+        background-color: rgb(91, 102, 114);
+        font-size: 35px;
+        color: blanchedalmond;
+        text-align: center;
+    }
+
+a {
+        color: lightgreen;
+    }
