@@ -6,5 +6,8 @@
         {
             "path": "CSS Stylesheet"
         }
-    ]
+    ],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "Clockapp"
+    }
 }
